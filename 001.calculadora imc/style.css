@@ -1,0 +1,49 @@
+body{
+  display: flex;
+  justify-content: center;
+}
+.title {
+  font-size: 18pt;
+  padding-bottom: 20px;
+}
+.container {
+  font-size: 14pt;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: lightblue;
+  width: 300px;
+  text-align: center;
+  border-radius: 8px;
+  padding: 30px 10px;
+  font-weight: bold;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.291);
+  height: 350px;
+}
+#calcular{
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px;
+  font-size: 12pt;
+  font-weight: bold;
+  background-color: rgba(154, 154, 158, 0.649);
+  color: rgb(7, 7, 7);
+  
+}
+.result {
+  background-color: rgba(79, 79, 205, 0.666);
+  color: white;
+  width: 220px;
+  height: 75px;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+  
+}
+
+.input {
+  margin: 20px;      
+}
+footer {
+ 
+ 
+}
